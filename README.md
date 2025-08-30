@@ -1,1 +1,1 @@
-<img src="https://github.com/realthrottle/throttle.org.uk/images/no_background_throttle.png">
+<img src="https://raw.githubusercontent.com/realthrottle/throttle.org.uk/refs/heads/main/images/no_background_throttle.png">
